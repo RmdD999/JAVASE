@@ -15,7 +15,10 @@ public class AddCalculate {
 //        forLoop();
 //        GuessNums.guessNum();
 //        primeNumber();
-        fibonacci();
+//        fibonacci();
+//        rectangle();
+//        triganle();
+        equilateralTranigle();
     }
 
 
@@ -158,4 +161,47 @@ public class AddCalculate {
             back = sum;
         }
     }
+
+    //6行10列的矩形
+    public static void rectangle(){
+
+        for(int i =1;i<=6;i++) {
+
+            for(int k = 1; k<=10; k++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    //七层直角三角形
+    public static void triganle() {
+
+        for(int i =1; i<=6; i++){
+
+            for(int row =1; row<=i; row++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    //打印一个七层的等边三角形
+    public static void equilateralTranigle(){
+
+        for(int i = 1; i <= 7; i++) {
+
+            //need some space here
+            for(int space = 1; space <= 7-i;space++ ){
+                System.out.print(" ");
+            }
+
+            for(int k = 1; k <= i*2-1; k++){
+                System.out.print("*");
+            }
+
+            System.out.println();
+        }
+    }
+
 }
