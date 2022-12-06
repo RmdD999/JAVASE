@@ -236,4 +236,9 @@ public class AddCalculate {
             System.out.println();
         }
     }
+
+    //一个Java源文件中最多只能有一个public类，当有一个public 类时，源文件名称必须与其一致，至于main()不是必须要放在public类中才能运行程序
+
+    //方法的重载 overload --同一个类中，方法名一样，参数不同，或者参数数量不同
+    //为什么要进行方法的重载：Java是强类型语言，如果没有overload，那么要定义很多不同名称的相同功能的方法。
 }
