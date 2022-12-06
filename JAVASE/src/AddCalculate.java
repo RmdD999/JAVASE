@@ -18,7 +18,8 @@ public class AddCalculate {
 //        fibonacci();
 //        rectangle();
 //        triganle();
-        equilateralTranigle();
+//        equilateralTranigle();
+        diamond();
     }
 
 
@@ -204,4 +205,35 @@ public class AddCalculate {
         }
     }
 
+    // print a diamond
+    public static void diamond(){
+        //total lines 15
+        int totalRows = 15;
+
+        int midRow = 0;
+        for(int row =1; row<=totalRows; row++){
+
+            if(row <= (totalRows+1)/2){
+                midRow = row;
+            }
+            else{
+                midRow = totalRows-row+1;
+            }
+
+            for(int space=0; space<(totalRows+1)/2-midRow; space++){
+                System.out.print(" ");
+            }
+
+            for(int star=1;star<=2*midRow-1;star++){
+                if(star==1||star==2*midRow-1){
+                    System.out.print("*");
+                }
+                else{
+                    System.out.print(" ");
+                }
+            }
+
+            System.out.println();
+        }
+    }
 }
