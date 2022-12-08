@@ -19,7 +19,20 @@ public class AddCalculate {
 //        rectangle();
 //        triganle();
 //        equilateralTranigle();
-        diamond();
+//        diamond();
+
+//        Person per = new Person(30,"Tom");
+//        System.out.println("name: "+per.name+"weight: "+per.weight);
+
+        Child ch1 = new Child("Tom",20);
+        ch1.showInfo();
+        Child ch2 = new Child("Tom",20);
+        ch2.showInfo();
+        Child ch3 = new Child("Tom",20);
+        ch3.showInfo();
+        Child ch4 = new Child("Tom",20);
+        ch4.showInfo();
+
     }
 
 
@@ -241,4 +254,10 @@ public class AddCalculate {
 
     //方法的重载 overload --同一个类中，方法名一样，参数不同，或者参数数量不同
     //为什么要进行方法的重载：Java是强类型语言，如果没有overload，那么要定义很多不同名称的相同功能的方法。
+
+
+    //构造方法：方法名与类相同，没有返回值类型，在创建一个类的新对象的时候，系统会自动调用该类的构造方法完成对新对象的初始化。
+    //在一个类中可以有多个构造方法，每一个类都会有一个默认的构造方法。
+
+    //this代词使用--不能在该类的外部使用，只能在该类定义的方法中使用。
 }
