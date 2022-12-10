@@ -1,10 +1,14 @@
-public class Animal {
+//抽象类不可被实例化
+//抽象类可以被继承
+//继承抽象类的子类，必须实现所有父类的抽象方法。
+//抽象类中可以没有抽象方法
+//含有抽象方法的类一定要命名为抽象类
+//When to use abstract class -- 当继承父类有很多子类都实现同一类型但是不同的方法时。
+abstract public class Animal {
     int age;
     String name;
 
-    public void speak(){
-        System.out.println("I'm a animal, I don't know how to bark.");
-    }
+    abstract public void speak();
 
     public static void main(String[] args){
 

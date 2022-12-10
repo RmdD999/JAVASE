@@ -28,3 +28,6 @@ class Clerk{
         return salary;
     }
 }
+
+//父类变量向子类转换必须通过显示强制转换类型
+//多态中向上可以自动转换。处理向下转换时建议使用instanceof来判断。
