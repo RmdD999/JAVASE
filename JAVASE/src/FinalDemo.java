@@ -7,7 +7,7 @@ public class FinalDemo {
     //final修饰的变量一般叫做常量 xx_xx_xx
     //final修饰变量时必须赋值，否则之后不可赋值。
 
-    
+
 
 }
 
