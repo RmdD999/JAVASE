@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuickSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoDimisionArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FinalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FinalDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +43,7 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayDemo">
-    <configuration name="AddCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddCalculate" />
-      <module name="JAVASE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TwoDimisionArray">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animal" />
       <module name="JAVASE" />
@@ -64,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BubbleSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSortDemo" />
+      <module name="JAVASE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterfaceDemo" />
       <module name="JAVASE" />
@@ -71,12 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoDimisionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimisionArray" />
+      <module name="JAVASE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDimisionArray" />
+        <item itemvalue="Application.BubbleSortDemo" />
         <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.InterfaceDemo" />
         <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.AddCalculate" />
       </list>
     </recent_temporary>
   </component>
@@ -105,5 +114,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Print a diamond method" />
     <option name="LAST_COMMIT_MESSAGE" value="Print a diamond method" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
