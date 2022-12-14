@@ -21,6 +21,9 @@ public class SalaryManagement_Hashtable{
         salary.put("Lusan",sal+1000);
         System.out.println("Lusan's new salary is: "+salary.get("Lusan"));
 
+        salary.remove("Tom");
+
+
 
     }
 }

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/ClerkSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryManagement_Hashtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryManagement_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalaryManagement_ArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalaryManagement_Hashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalaryManagement_Hashtable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
