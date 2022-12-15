@@ -25,6 +25,6 @@ public class SalaryManagement_ArrayList {
             System.out.println(cl);
         }
 
-        
+
     }
 }

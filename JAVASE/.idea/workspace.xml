@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/SalaryManagement_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moneys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalaryManagement_Hashmap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SalaryManagement_Hashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalaryManagement_Hashtable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalaryManagement_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalaryManagement_ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +44,16 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SalaryManagement_Hashtable">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
+  <component name="RunManager" selected="Application.Moneys">
+    <configuration name="BubbleSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSortDemo" />
       <module name="JAVASE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSortDemo" />
+    <configuration name="Moneys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Moneys" />
       <module name="JAVASE" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Moneys" />
         <item itemvalue="Application.SalaryManagement_Hashtable" />
         <item itemvalue="Application.SalaryManagement_Vector" />
         <item itemvalue="Application.TwoDimisionArray" />
         <item itemvalue="Application.BubbleSortDemo" />
-        <item itemvalue="Application.ArrayDemo" />
       </list>
     </recent_temporary>
   </component>
