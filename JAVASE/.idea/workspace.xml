@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/GenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GenericTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +42,9 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Moneys">
-    <configuration name="BubbleSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSortDemo" />
+  <component name="RunManager" selected="Application.GenericDemo">
+    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericDemo" />
       <module name="JAVASE" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericDemo" />
         <item itemvalue="Application.Moneys" />
         <item itemvalue="Application.SalaryManagement_Hashtable" />
         <item itemvalue="Application.SalaryManagement_Vector" />
         <item itemvalue="Application.TwoDimisionArray" />
-        <item itemvalue="Application.BubbleSortDemo" />
       </list>
     </recent_temporary>
   </component>

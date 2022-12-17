@@ -1,8 +1,7 @@
 import java.util.ArrayList;
 
-public class GenericTest {
     //T创建对象的时候指定具体的类型
-    public class Generic<T>{
+    class Generic<T>{
         private T key;
 
         public Generic(T key){
@@ -31,4 +30,4 @@ public class GenericTest {
 
         }
     }
-}
+
