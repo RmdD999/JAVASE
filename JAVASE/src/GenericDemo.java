@@ -29,7 +29,7 @@ public class GenericDemo {
 
         System.out.println(strGeneric.getClass());
         System.out.println(intGeneric.getClass());
-        
+
     }
 
 }

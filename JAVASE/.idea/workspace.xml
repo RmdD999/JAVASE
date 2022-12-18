@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
+      <change afterPath="$PROJECT_DIR$/src/ChildFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChildSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductGetterDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenericTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +47,7 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GenericDemo">
+  <component name="RunManager" selected="Application.ParentDemo">
     <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenericDemo" />
       <module name="JAVASE" />
@@ -57,6 +62,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParentDemo" />
+      <module name="JAVASE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductGetterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProductGetterDemo" />
+      <module name="JAVASE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SalaryManagement_Hashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SalaryManagement_Hashtable" />
       <module name="JAVASE" />
@@ -64,27 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalaryManagement_Vector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalaryManagement_Vector" />
-      <module name="JAVASE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoDimisionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoDimisionArray" />
-      <module name="JAVASE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParentDemo" />
+        <item itemvalue="Application.ProductGetterDemo" />
         <item itemvalue="Application.GenericDemo" />
         <item itemvalue="Application.Moneys" />
         <item itemvalue="Application.SalaryManagement_Hashtable" />
-        <item itemvalue="Application.SalaryManagement_Vector" />
-        <item itemvalue="Application.TwoDimisionArray" />
       </list>
     </recent_temporary>
   </component>
