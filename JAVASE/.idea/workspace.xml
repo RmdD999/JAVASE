@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/ChildFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChildSecond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductGetterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GenericDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
