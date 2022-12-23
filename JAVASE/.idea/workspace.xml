@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
+      <change afterPath="$PROJECT_DIR$/src/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProductGetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProductGetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,16 +46,9 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ProductGetter">
+  <component name="RunManager" selected="Application.TestBox">
     <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GenericDemo" />
-      <module name="JAVASE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Moneys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Moneys" />
       <module name="JAVASE" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,13 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestBox" />
+      <module name="JAVASE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestBox" />
         <item itemvalue="Application.ProductGetter" />
         <item itemvalue="Application.ParentDemo" />
         <item itemvalue="Application.ProductGetterDemo" />
         <item itemvalue="Application.GenericDemo" />
-        <item itemvalue="Application.Moneys" />
       </list>
     </recent_temporary>
   </component>
