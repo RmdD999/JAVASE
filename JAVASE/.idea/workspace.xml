@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
+      <change afterPath="$PROJECT_DIR$/src/Demo09/Eraser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo09/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo09/InfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo09/Test9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DownLimitDemo/DownLimit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DownLimitDemo/DownLimit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestBox">
-    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenericDemo" />
-      <module name="JAVASE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test9">
     <configuration name="ParentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ParentDemo" />
       <module name="JAVASE" />
@@ -71,6 +67,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo09.Test9" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestBox" />
       <module name="JAVASE" />
@@ -80,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test9" />
         <item itemvalue="Application.TestBox" />
         <item itemvalue="Application.ProductGetter" />
         <item itemvalue="Application.ParentDemo" />
         <item itemvalue="Application.ProductGetterDemo" />
-        <item itemvalue="Application.GenericDemo" />
       </list>
     </recent_temporary>
   </component>
