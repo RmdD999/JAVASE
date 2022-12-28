@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/Demo09/Eraser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo09/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo09/InfoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo09/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo10/Test10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
