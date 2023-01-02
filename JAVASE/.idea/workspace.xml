@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/IODemo/CopyFileDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/CopyFileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/ByteStreamDemo6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/InputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/InputStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/a.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +50,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CopyFileDemo2">
-    <configuration name="ByteStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.ByteStreamDemo2" />
+  <component name="RunManager" selected="Application.ByteStreamDemo6">
+    <configuration name="ByteStreamDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.ByteStreamDemo4" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByteStreamDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.ByteStreamDemo4" />
+    <configuration name="ByteStreamDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.ByteStreamDemo6" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ByteStreamDemo6" />
         <item itemvalue="Application.CopyFileDemo2" />
         <item itemvalue="Application.CopyFileDemo" />
         <item itemvalue="Application.InputStreamDemo" />
         <item itemvalue="Application.ByteStreamDemo4" />
-        <item itemvalue="Application.ByteStreamDemo2" />
       </list>
     </recent_temporary>
   </component>
