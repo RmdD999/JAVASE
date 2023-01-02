@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="Print a diamond method">
-      <change afterPath="$PROJECT_DIR$/src/IODemo/ByteStreamDemo6.java" afterDir="false" />
+    <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
+      <change afterPath="$PROJECT_DIR$/src/IODemo/ByteStreamDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/ByteStreamDemo8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/ByteStreamDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/ByteStreamDemo6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669959656278</updated>
     </task>
+    <task id="LOCAL-00001" summary="copy large file">
+      <created>1672690702513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672690702513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,7 +161,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Print a diamond method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print a diamond method" />
+    <MESSAGE value="copy large file" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy large file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
