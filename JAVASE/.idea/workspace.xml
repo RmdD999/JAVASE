@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/IODemo/test/Invent and Wander The Collected Writings of Jeff Bezos, With an Introduction by Walter Isaacson (Walter Isaacson, Jeff Bezos) (z-lib.org).epub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IODemo/test/Set Boundaries, Find Peace (Nedra Glover Tawwab [Tawwab, Nedra Glover]) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IODemo/test/The Consumer Society Myths and Structures (Published in association with Theory, Culture  Society) (Jean Baudrillard) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IODemo/test/The McKinsey Way Using the Techniques of the Worlds Top Strategic Consultants to Help You and Your Business (Ethan M. Rasiel) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IODemo/test/[zhelper.org] Basic Economics A Common Sense Guide to the Economy_Thomas Sowell (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IODemo/test/强势：如何在工作、恋爱和人际交往中快速取得主导权？ (曼纽尔．J．史密斯) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IODemo/test/稀缺 我们是如何陷入贫穷与忙碌的 (塞德希尔·穆来纳森 埃尔德·沙菲尔) (z-lib.org).pdf.crdownload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IODemo/test/贫穷的本质：我们为什么摆脱不了贫穷 (阿比吉特·班纳吉 埃斯特·迪弗洛 景芳(译)) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/CharSetDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/CharStreamDemo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/IODemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/Invent and Wander The Collected Writings of Jeff Bezos, With an Introduction by Walter Isaacson (Walter Isaacson, Jeff Bezos) (z-lib.org).epub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/Set Boundaries, Find Peace (Nedra Glover Tawwab [Tawwab, Nedra Glover]) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/The Consumer Society Myths and Structures (Published in association with Theory, Culture  Society) (Jean Baudrillard) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/The McKinsey Way Using the Techniques of the Worlds Top Strategic Consultants to Help You and Your Business (Ethan M. Rasiel) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/[zhelper.org] Basic Economics A Common Sense Guide to the Economy_Thomas Sowell (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/强势：如何在工作、恋爱和人际交往中快速取得主导权？ (曼纽尔．J．史密斯) (z-lib.org).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/稀缺 我们是如何陷入贫穷与忙碌的 (塞德希尔·穆来纳森 埃尔德·沙菲尔) (z-lib.org).pdf.crdownload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/test/贫穷的本质：我们为什么摆脱不了贫穷 (阿比吉特·班纳吉 埃斯特·迪弗洛 景芳(译)) (z-lib.org).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/IODemo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/IODemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/IODemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/copy.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,22 +52,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IODemo01">
+  <component name="RunManager" selected="Application.IODemo02">
     <configuration name="CharSetDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IODemo.CharSetDemo04" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharStreamDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.CharStreamDemo02" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -135,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IODemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.IODemo02" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IODemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IODemo02" />
         <item itemvalue="Application.IODemo01" />
         <item itemvalue="Application.CharStreamDemo05" />
         <item itemvalue="Application.CharSetDemo04" />
         <item itemvalue="Application.CharStreamDemo03" />
-        <item itemvalue="Application.CharStreamDemo02" />
       </list>
     </recent_temporary>
   </component>
