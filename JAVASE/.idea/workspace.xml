@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/IODemo/IODemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copyA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/IODemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/IODemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/IODemo0401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/a2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/a2Copy.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/IODemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/IODemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IODemo/copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/Invent and Wander The Collected Writings of Jeff Bezos, With an Introduction by Walter Isaacson (Walter Isaacson, Jeff Bezos) (z-lib.org).epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/Set Boundaries, Find Peace (Nedra Glover Tawwab [Tawwab, Nedra Glover]) (z-lib.org).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/The Consumer Society Myths and Structures (Published in association with Theory, Culture  Society) (Jean Baudrillard) (z-lib.org).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/The McKinsey Way Using the Techniques of the Worlds Top Strategic Consultants to Help You and Your Business (Ethan M. Rasiel) (z-lib.org).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/[zhelper.org] Basic Economics A Common Sense Guide to the Economy_Thomas Sowell (z-lib.org).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/强势：如何在工作、恋爱和人际交往中快速取得主导权？ (曼纽尔．J．史密斯) (z-lib.org).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/稀缺 我们是如何陷入贫穷与忙碌的 (塞德希尔·穆来纳森 埃尔德·沙菲尔) (z-lib.org).pdf.crdownload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/test/贫穷的本质：我们为什么摆脱不了贫穷 (阿比吉特·班纳吉 埃斯特·迪弗洛 景芳(译)) (z-lib.org).pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,46 +65,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IODemo02">
-    <configuration name="CharSetDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.CharSetDemo04" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharStreamDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.CharStreamDemo03" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharStreamDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.CharStreamDemo05" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IODemo0401">
     <configuration name="IODemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IODemo.IODemo01" />
       <module name="JAVASE" />
@@ -118,13 +92,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IODemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.IODemo03" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IODemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IODemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.IODemo04" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IODemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IODemo0401" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.IODemo0401" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IODemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IODemo0401" />
+        <item itemvalue="Application.IODemo04" />
+        <item itemvalue="Application.IODemo03" />
         <item itemvalue="Application.IODemo02" />
         <item itemvalue="Application.IODemo01" />
-        <item itemvalue="Application.CharStreamDemo05" />
-        <item itemvalue="Application.CharSetDemo04" />
-        <item itemvalue="Application.CharStreamDemo03" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +184,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="4" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/IODemo/IODemo01.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
