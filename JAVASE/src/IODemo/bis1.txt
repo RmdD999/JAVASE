@@ -1,0 +1,16 @@
+什么时候最快
+当输入的数据已经是正序时（都已经是正序了，我还要你冒泡排序有何用啊）。
+
+4. 什么时候最慢
+当输入的数据是反序时（写一个 for 循环反序输出数据不就行了，干嘛要用你冒泡排序呢，我是闲的吗）。
+
+5. JavaScript 代码实现
+实例
+function bubbleSort(arr) {
+    var len = arr.length;
+    for (var i = 0; i < len - 1; i++) {
+        for (var j = 0; j < len - 1 - i; j++) {
+            if (arr[j] > arr[j+1]) {        // 相邻元素两两对比
+                var temp = arr[j+1];        // 元素交换
+                arr[j+1] = arr[j];
+                arr[j] = temp;
