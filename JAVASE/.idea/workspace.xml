@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferIODemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/bis1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/bis1Output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferedStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferedStreamDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferedStreamDemo04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/bis1Output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/bis1Output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BufferIODemo01">
+  <component name="RunManager" selected="Application.BufferedStreamDemo03">
     <configuration name="BufferIODemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IODemo.BufferIODemo01" />
       <module name="JAVASE" />
@@ -66,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IODemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.IODemo02" />
+    <configuration name="BufferedStreamDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.BufferedStreamDemo02" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IODemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.IODemo03" />
+    <configuration name="BufferedStreamDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.BufferedStreamDemo03" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IODemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.IODemo04" />
+    <configuration name="BufferedStreamDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.BufferedStreamDemo04" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferedStreamDemo03" />
+        <item itemvalue="Application.BufferedStreamDemo04" />
+        <item itemvalue="Application.BufferedStreamDemo02" />
         <item itemvalue="Application.BufferIODemo01" />
         <item itemvalue="Application.IODemo0401" />
-        <item itemvalue="Application.IODemo04" />
-        <item itemvalue="Application.IODemo03" />
-        <item itemvalue="Application.IODemo02" />
       </list>
     </recent_temporary>
   </component>
