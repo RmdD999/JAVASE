@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferedStreamExe01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferedStreamExe02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferedStreamExe0201.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/a2Copy.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/csb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/csbCopy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/BufferedStreamExe03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/a5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/a6.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/IODemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/IODemo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/IODemo0401.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/IODemo0401.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/a2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +55,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BufferedStreamExe0201">
-    <configuration name="BufferedStreamExe02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.BufferedStreamExe02" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BufferedStreamExe03">
     <configuration name="BufferedStreamExe02 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IODemo.BufferedStreamExe02" />
       <module name="JAVASE" />
@@ -121,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BufferedStreamExe03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.BufferedStreamExe03" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IODemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferedStreamExe03" />
         <item itemvalue="Application.BufferedStreamExe0201" />
         <item itemvalue="Application.BufferedStreamExe02 (5)" />
         <item itemvalue="Application.BufferedStreamExe02 (4)" />
         <item itemvalue="Application.BufferedStreamExe02 (3)" />
-        <item itemvalue="Application.BufferedStreamExe02 (2)" />
       </list>
     </recent_temporary>
   </component>

@@ -8,7 +8,7 @@ import java.util.Collections;
 public class IODemo04 {
     public static void main(String[] args) throws IOException {
         //read
-        FileReader fr = new FileReader("/Users/raymonddu/Documents/GitHub/JAVASE/JAVASE/src/IODemo/a2.txt");
+        FileReader fr = new FileReader("/Users/raymonddu/Documents/GitHub/JAVASE/JAVASE/src/IODemo/a3.txt");
         StringBuilder sb = new StringBuilder();
         int len;
         while((len=fr.read())!=-1){
