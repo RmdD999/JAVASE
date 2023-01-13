@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/ConvertStreamDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/ConvertStreamDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/ConvertStreamDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/ConvertStreamDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/gbk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/ObjectStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/ObjectStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IODemo/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IODemo/copy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IODemo/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IODemo/a.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,33 +54,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertStreamDemo04">
-    <configuration name="BufferedStreamExe03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.BufferedStreamExe03" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertStreamDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.ConvertStreamDemo01" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ObjectStreamDemo02">
     <configuration name="ConvertStreamDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IODemo.ConvertStreamDemo02" />
       <module name="JAVASE" />
@@ -124,13 +94,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectStreamDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.ObjectStreamDemo01" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IODemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectStreamDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IODemo.ObjectStreamDemo02" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IODemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectStreamDemo02" />
+        <item itemvalue="Application.ObjectStreamDemo01" />
         <item itemvalue="Application.ConvertStreamDemo04" />
         <item itemvalue="Application.ConvertStreamDemo03" />
         <item itemvalue="Application.ConvertStreamDemo02" />
-        <item itemvalue="Application.ConvertStreamDemo01" />
-        <item itemvalue="Application.BufferedStreamExe03" />
       </list>
     </recent_temporary>
   </component>
