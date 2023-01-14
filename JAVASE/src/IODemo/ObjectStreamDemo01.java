@@ -15,7 +15,7 @@ public class ObjectStreamDemo01 {
         public final void writeObject(Object obj) 把对象序列化 写出 到文件去
          */
 
-        Student stu = new Student("Zhangsan",20);
+        Student stu = new Student("Zhangsan",20,"Nanjing");
 
         ObjectOutputStream oos = new ObjectOutputStream(
                 new FileOutputStream("/Users/raymonddu/Documents/GitHub/JAVASE/JAVASE/src/IODemo/a.txt"));
