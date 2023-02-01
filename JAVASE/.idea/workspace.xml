@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/IODemo/PrintStreamDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/PrintStreamDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IODemo/ps03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myZipStream/a.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZipStreamDemo01">
+  <component name="RunManager" selected="Application.myZipStream.ZipStreamDemo03">
     <configuration name="PrintStreamDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IODemo.PrintStreamDemo03" />
       <module name="JAVASE" />
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZipStreamDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.ZipStreamDemo02" />
+    <configuration name="myZipStream.ZipStreamDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myZipStream.ZipStreamDemo02" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IODemo.*" />
+          <option name="PATTERN" value="myZipStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZipStreamDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.ZipStreamDemo03" />
+    <configuration name="myZipStream.ZipStreamDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myZipStream.ZipStreamDemo03" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IODemo.*" />
+          <option name="PATTERN" value="myZipStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myZipStream.ZipStreamDemo03" />
+        <item itemvalue="Application.myZipStream.ZipStreamDemo02" />
         <item itemvalue="Application.ZipStreamDemo01" />
         <item itemvalue="Application.PrintStreamDemo04" />
         <item itemvalue="Application.PrintStreamDemo03" />
-        <item itemvalue="Application.ZipStreamDemo03" />
-        <item itemvalue="Application.ZipStreamDemo02" />
       </list>
     </recent_temporary>
   </component>

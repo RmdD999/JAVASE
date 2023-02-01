@@ -23,10 +23,12 @@ public class ZipStreamDemo01 {
        while((entry=zip.getNextEntry())!=null){
             System.out.println(entry);
 
+            //folders
             if(entry.isDirectory()){
                 File file = new File(dest,entry.toString());
                 file.mkdirs();
             }
+            //files
             else{
                 FileOutputStream fos = new FileOutputStream(new File(dest,entry.toString()));
                 int b;
