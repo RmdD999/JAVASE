@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myZipStream/a.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hutool-all-5.8.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonIODemo/CommonIODemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonIODemo/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonIODemo/aCopy.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myZipStream/ZipStreamDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +52,19 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/IODemo" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.myZipStream.ZipStreamDemo03">
-    <configuration name="PrintStreamDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.PrintStreamDemo03" />
+  <component name="RunManager" selected="Application.HutoolDemo01">
+    <configuration name="CommonIODemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonIODemo.CommonIODemo01" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IODemo.*" />
+          <option name="PATTERN" value="CommonIODemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStreamDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IODemo.PrintStreamDemo04" />
+    <configuration name="HutoolDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonIODemo.HutoolDemo01" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IODemo.*" />
+          <option name="PATTERN" value="CommonIODemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HutoolDemo01" />
+        <item itemvalue="Application.CommonIODemo01" />
         <item itemvalue="Application.myZipStream.ZipStreamDemo03" />
         <item itemvalue="Application.myZipStream.ZipStreamDemo02" />
         <item itemvalue="Application.ZipStreamDemo01" />
-        <item itemvalue="Application.PrintStreamDemo04" />
-        <item itemvalue="Application.PrintStreamDemo03" />
       </list>
     </recent_temporary>
   </component>
