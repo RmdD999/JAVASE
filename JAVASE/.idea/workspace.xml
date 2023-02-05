@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/ThreadDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/ThreadDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/ThreadDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/ThreadDemo04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,32 +51,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ThreadDemo" />
       <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/src/IODemo" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadDemo02">
-    <configuration name="CommonIODemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonIODemo.CommonIODemo01" />
+  <component name="RunManager" selected="Application.Race">
+    <configuration name="Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.Race" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CommonIODemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HutoolDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonIODemo.HutoolDemo01" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CommonIODemo.*" />
+          <option name="PATTERN" value="ThreadDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myZipStream.ZipStreamDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myZipStream.ZipStreamDemo03" />
+    <configuration name="ThreadDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.ThreadDemo03" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myZipStream.*" />
+          <option name="PATTERN" value="ThreadDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.ThreadDemo04" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ThreadDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Race" />
+        <item itemvalue="Application.ThreadDemo04" />
+        <item itemvalue="Application.ThreadDemo03" />
         <item itemvalue="Application.ThreadDemo02" />
         <item itemvalue="Application.ThreadDemo01" />
-        <item itemvalue="Application.HutoolDemo01" />
-        <item itemvalue="Application.CommonIODemo01" />
-        <item itemvalue="Application.myZipStream.ZipStreamDemo03" />
       </list>
     </recent_temporary>
   </component>
