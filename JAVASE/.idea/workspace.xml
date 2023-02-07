@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/Race.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/ThreadDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/ThreadDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/StaticProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Race">
+  <component name="RunManager" selected="Application.StaticProxy">
     <configuration name="Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadDemo.Race" />
       <module name="JAVASE" />
@@ -72,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.ThreadDemo01" />
+    <configuration name="StaticProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.StaticProxy" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticProxy" />
         <item itemvalue="Application.Race" />
         <item itemvalue="Application.ThreadDemo04" />
         <item itemvalue="Application.ThreadDemo03" />
         <item itemvalue="Application.ThreadDemo02" />
-        <item itemvalue="Application.ThreadDemo01" />
       </list>
     </recent_temporary>
   </component>
