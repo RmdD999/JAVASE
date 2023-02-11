@@ -37,7 +37,7 @@ public class LambdaDemo02 {
         l5.love(9320);
 
 
-        //multi paras could also not be declared type 
+        //multi paras could also not be declared type
     }
 }
 

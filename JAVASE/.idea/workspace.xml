@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/LambdaDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/LambdaDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/DeamonDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/JoinDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/PriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/SleepDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/SleepDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/StateDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/StopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/YieldDemo01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadDemo/LambdaDemo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/LambdaDemo02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +61,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaDemo02">
-    <configuration name="LambdaDemo01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.LambdaDemo01" />
+  <component name="RunManager" selected="Application.DeamonDemo01">
+    <configuration name="DeamonDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.DeamonDemo01" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.LambdaDemo01" />
+    <configuration name="JoinDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.JoinDemo01" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.LambdaDemo01" />
+    <configuration name="PriorityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.PriorityDemo" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.LambdaDemo02" />
+    <configuration name="StateDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.StateDemo01" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.LambdaDemo02" />
+    <configuration name="YieldDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.YieldDemo01" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaDemo02" />
-        <item itemvalue="Application.LambdaDemo02 (1)" />
-        <item itemvalue="Application.LambdaDemo01" />
-        <item itemvalue="Application.LambdaDemo01 (2)" />
-        <item itemvalue="Application.LambdaDemo01 (1)" />
+        <item itemvalue="Application.DeamonDemo01" />
+        <item itemvalue="Application.PriorityDemo" />
+        <item itemvalue="Application.StateDemo01" />
+        <item itemvalue="Application.JoinDemo01" />
+        <item itemvalue="Application.YieldDemo01" />
       </list>
     </recent_temporary>
   </component>
