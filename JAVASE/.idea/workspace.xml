@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/UnsafeBankDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/UnsafeBuyTicketDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/UnsafeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/GUCDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadDemo/DeamonDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadDemo/DeamonDemo01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +54,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnsafeList">
-    <configuration name="DeamonDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.DeamonDemo01" />
+  <component name="RunManager" selected="Application.DeadLockDemo">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.DeadLockDemo" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.PriorityDemo" />
+    <configuration name="DeamonDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.DeamonDemo01" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadLockDemo" />
         <item itemvalue="Application.UnsafeList" />
         <item itemvalue="Application.UnsafeBankDemo" />
         <item itemvalue="Application.UnsafeBuyTicketDemo" />
         <item itemvalue="Application.DeamonDemo01" />
-        <item itemvalue="Application.PriorityDemo" />
       </list>
     </recent_temporary>
   </component>
