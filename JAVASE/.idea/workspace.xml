@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/PCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo/PCDemo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PCDemo">
+  <component name="RunManager" selected="Application.PCDemo02">
     <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThreadDemo.DeadLockDemo" />
       <module name="JAVASE" />
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsafeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.UnsafeList" />
+    <configuration name="PCDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreadDemo.PCDemo02" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PCDemo02" />
         <item itemvalue="Application.PCDemo" />
         <item itemvalue="Application.LockExe" />
         <item itemvalue="Application.LockDemo" />
         <item itemvalue="Application.DeadLockDemo" />
-        <item itemvalue="Application.UnsafeList" />
       </list>
     </recent_temporary>
   </component>
