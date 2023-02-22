@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Demo01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionDemo05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reflection/Demo01.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reflection/Demo01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reflection/ReflectionDemo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reflection/ReflectionDemo04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ThreadDemo" />
@@ -56,7 +55,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReflectionDemo04">
+  <component name="RunManager" selected="Application.ReflectionDemo05">
     <configuration name="AnnotationTestDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Annotation.AnnotationTestDemo01" />
       <module name="JAVASE" />
@@ -109,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadReviewDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadDemo.ThreadReviewDemo" />
+    <configuration name="ReflectionDemo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reflection.ReflectionDemo05" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreadDemo.*" />
+          <option name="PATTERN" value="Reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectionDemo05" />
         <item itemvalue="Application.ReflectionDemo04" />
         <item itemvalue="Application.ReflectionDemo03" />
         <item itemvalue="Application.ReflectionDemo01" />
         <item itemvalue="Application.AnnotationTestDemo01" />
-        <item itemvalue="Application.ThreadReviewDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -177,5 +176,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
