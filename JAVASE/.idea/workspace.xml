@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/ReflectionDemo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/IPDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/InetSocketAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/WhatIsComputerNetworking.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +55,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReflectionDemo11">
-    <configuration name="ReflectionDemo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reflection.ReflectionDemo06" />
+  <component name="RunManager" selected="Application.InetSocketAddress">
+    <configuration name="IPDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetworkProgramming.IPDemo" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Reflection.*" />
+          <option name="PATTERN" value="NetworkProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionDemo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reflection.ReflectionDemo08" />
+    <configuration name="InetSocketAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetworkProgramming.InetSocketAddress" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Reflection.*" />
+          <option name="PATTERN" value="NetworkProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InetSocketAddress" />
+        <item itemvalue="Application.IPDemo" />
         <item itemvalue="Application.ReflectionDemo11" />
         <item itemvalue="Application.ReflectionDemo10" />
         <item itemvalue="Application.ReflectionDemo09" />
-        <item itemvalue="Application.ReflectionDemo08" />
-        <item itemvalue="Application.ReflectionDemo06" />
       </list>
     </recent_temporary>
   </component>
