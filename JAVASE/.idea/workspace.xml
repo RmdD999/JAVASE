@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8844cdb0-3b60-447b-8922-51486204de34" name="Changes" comment="copy large file">
-      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/UDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/chat/TalkReceive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/chat/TalkSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/chat/UdpReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NetworkProgramming/chat/UdpSender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NetworkProgramming/WhatIsComputerNetworking.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/NetworkProgramming/WhatIsComputerNetworking.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,35 +60,9 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UDPClient">
-    <configuration name="ClientExe01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NetworkProgramming.day2.ClientExe01" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NetworkProgramming.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UdpReceiver">
     <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NetworkProgramming.day2.Demo02" />
-      <module name="JAVASE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="NetworkProgramming.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NetworkProgramming.day2.Demo02Server" />
       <module name="JAVASE" />
       <extension name="coverage">
         <pattern>
@@ -125,13 +100,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UdpReceiver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetworkProgramming.chat.UdpReceiver" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NetworkProgramming.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpSender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetworkProgramming.chat.UdpSender" />
+      <module name="JAVASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NetworkProgramming.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UdpReceiver" />
+        <item itemvalue="Application.UdpSender" />
         <item itemvalue="Application.UDPClient" />
         <item itemvalue="Application.UDPServer" />
         <item itemvalue="Application.Demo02" />
-        <item itemvalue="Application.Demo02Server" />
-        <item itemvalue="Application.ClientExe01" />
       </list>
     </recent_temporary>
   </component>
