@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="copy1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAVASE/out/production/JAVASE/IODemo/copy.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
