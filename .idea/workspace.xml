@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4278866c-ea66-4a4f-9d30-c002f844aefe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVASE/src/ArrayLearning/DVD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVASE/src/ArrayLearning/MaxConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVASE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVASE/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/src/Leetcode/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="4278866c-ea66-4a4f-9d30-c002f844aefe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
